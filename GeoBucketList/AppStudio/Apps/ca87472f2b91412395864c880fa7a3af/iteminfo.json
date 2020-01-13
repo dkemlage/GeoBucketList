@@ -1,0 +1,60 @@
+{
+    "access": "org",
+    "accessInformation": "AppStudio team",
+    "appCategories": [
+    ],
+    "avgRating": 0,
+    "banner": null,
+    "categories": [
+    ],
+    "commentsEnabled": true,
+    "created": 1578793275000,
+    "culture": "en-au",
+    "description": "\n<p style='-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'><br /></p>\n<p style=' margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;'><span style=' font-family:'>Initially, the geographies in the geographic 'bucket list' layer are masked (kind of like a scratchers game) to obscure the basemap layer below. As you visit the location of each geography, you click the button to mark that you have now seen that place. You are will be presented with a dialog to upload a picture on your device that demonstrates that you were there. As part of this record keeping process, your exact X,Y coordinate location as well as the date of your visit will be stored on the device.</span> </p>\n<p style=' margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;'><span style=' font-family:'>After you have recorded your geographic 'bucket list' journal entry, you can go back later and click on any geography to see when you were there, the exact coordinate location, and photographic memory you captured.</span><span style=' font-family:'> </span></p>",
+    "documentation": null,
+    "extent": [
+    ],
+    "groupDesignations": null,
+    "guid": null,
+    "id": "ca87472f2b91412395864c880fa7a3af",
+    "industries": [
+    ],
+    "isOrgItem": true,
+    "languages": [
+    ],
+    "largeThumbnail": null,
+    "licenseInfo": null,
+    "listed": false,
+    "modified": 1578945143000,
+    "name": "ca87472f2b91412395864c880fa7a3af.zip",
+    "numComments": 7,
+    "numRatings": 0,
+    "numViews": 11,
+    "owner": "hackthemap4Brandon",
+    "properties": null,
+    "proxyFilter": null,
+    "scoreCompleteness": 66,
+    "screenshots": [
+    ],
+    "size": 88807,
+    "snippet": "The GeoBucketList is a mobile application to track your geography 'bucket list' - where you have been and where you want to go. ",
+    "spatialReference": null,
+    "tags": [
+        "Travel",
+        "Exploration",
+        "Tracking"
+    ],
+    "thumbnail": "thumbnail/thumbnail.png",
+    "title": "GeoBucketList",
+    "type": "Native Application",
+    "typeKeywords": [
+        "API_QML",
+        "App",
+        "Application",
+        "AppStudio",
+        "Configuration",
+        "Native",
+        "qml"
+    ],
+    "url": null
+}
